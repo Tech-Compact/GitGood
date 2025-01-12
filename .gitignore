@@ -130,4 +130,8 @@ dist
 .pnp.*
 
 # Jetbrains
+
 .idea/
+*.iml
+.idea/*
+
