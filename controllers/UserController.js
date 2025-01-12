@@ -3,7 +3,7 @@ class UserController {
     try {
       const user = [
         {
-          name: "Steve Doe",
+          name: "Steve Lee",
           username: "Huindoong",
         },
         {
