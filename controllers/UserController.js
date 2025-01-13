@@ -13,6 +13,10 @@ class UserController {
         {
           name: "Jon Smith",
           username: "Coder123",
+        },
+        {
+          name: "Ashley Brown",
+          username: "NotAshley",
         }
       ];
       res.status(200).json(user);
